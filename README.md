@@ -65,8 +65,7 @@ cd IDyn
 npm install
 npm run dev
 > 🔐 Requires Node.js 18+, XRPL Testnet access, and Xumm Wallet setup.
-
----
+```
 
 ## 🗺️ Roadmap
 
